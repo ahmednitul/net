@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 21 Feb 2019 02:02:49 at https://pgi.playbattlegrounds.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qwC2%Ps2u1%s%uN199%I0p3DaK0H0%kf2A25000000000%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36" -%F  -%l "en, *" https://pgi.playbattlegrounds.com/ -O1 "C:\O\PUBG" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:02:49	Warning: 	* security warning: maximum bandwidth limited to 250000 to avoid server overload
+02:03:15	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://pgi.playbattlegrounds.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 121 links scanned, 119 files written (12389526 bytes overall) [10195295 bytes received at 154474 bytes/sec], 2840931 bytes transferred using HTTP compression in 20 files, ratio 19%, 3.0 requests per connection
+(1 errors, 1 warnings, 0 messages)
